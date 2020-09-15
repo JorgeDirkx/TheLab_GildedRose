@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class GildedRoseTest {
 
+   //test 1:
     @Test
     void foo() {
         Item[] items = new Item[] { new Item("foo", 0, 0) };
